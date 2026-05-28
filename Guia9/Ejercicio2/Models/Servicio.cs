@@ -45,8 +45,7 @@ namespace Ejercicio2.Models
                     edad3 = edad;
                     break;
                 default:
-                    Console.WriteLine("Opcion invalida");
-                    Console.ReadKey();
+                    
                     break;
             }
             
